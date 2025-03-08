@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum Updated",
+      "complete": true
+    },
+    {
+      "id": "2",
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": "9be7",
+      "title": "Selina is cute",
+      "details": "she is really cute. Like really cute. she likes matthews fat cock",
+      "complete": false
+    }
+  ]
+}
